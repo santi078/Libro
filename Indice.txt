@@ -2,3 +2,4 @@ CAPITULO 1: Introduccion a Git
 CAPITULO 2: Git en los 3 estados 
 CAPITULO 3: Gestion de Ramas 
 CAPITULO 4: Repositorios Remotos
+CAPITULO 5: Conceptos Avanzados
